@@ -23,4 +23,4 @@ declare global {
   }
 }
 
-export declare const styleSheetSerializer: Exclude<Plugin, NewPlugin>;
+export declare const styleSheetSerializer: Exclude<Plugin, NewPlugin>
